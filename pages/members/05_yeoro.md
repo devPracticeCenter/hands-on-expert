@@ -1,13 +1,15 @@
-# 염근철
+# 성열호
 
-## 🥸 인적사항
+## 🙋‍♂️ Who Am I?
 
-- name : 염근철
-- github : [GeunSam2](https://github.com/GeunSam2)
-- age : 미상
-- blog : [모두의 근삼이](https://ykarma1996.tistory.com/)
-- 회사 : 당근마켓
-- 부서 : SRE
+- name : 성열호
+- github : [yeoro](https://github.com/yeoro)
+- age : 94.10.09
+- blog : [메모장](https://velog.io/@yeoro)
+- 회사 : 현대오토에버
+- 부서 : 건설관리시스템팀
+
+![alt text](../image.png)
 
 ## 🥕 좋아하는 것
 
@@ -16,7 +18,7 @@
 - 비디오 게임
 
 ## 🐿 아무말
-
+<!-- 
 ![profile](https://avatars.githubusercontent.com/u/41275199?v=4)
 > 이건 제 아이콘이에요.
 
@@ -37,7 +39,7 @@ Argo Workflows 오픈소스의 컨트리뷰터로 활동하고 있어요.
 import you
 
 you.today('happy!')
-```
+``` -->
 
 ---
 
