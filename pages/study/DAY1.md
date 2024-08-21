@@ -12,3 +12,8 @@
 
 `docker push yeoro0/test:latest`
 ![alt text](./image-3.png)
+
+`git config global user.email`
+`git config global user.name`
+`git commit -m ''`
+![alt text](./image-4.png)
