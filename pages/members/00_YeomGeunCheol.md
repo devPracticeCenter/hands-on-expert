@@ -4,7 +4,7 @@
 
 - name : 염근철
 - github : [GeunSam2](https://github.com/GeunSam2)
-- age : 미상??
+- age : 미상???!?!!?!?!
 - blog : [모두의 근삼이](https://ykarma1996.tistory.com/)
 - 회사 : 당근마켓
 - 부서 : SRE
