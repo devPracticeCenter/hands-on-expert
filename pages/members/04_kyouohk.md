@@ -1,18 +1,8 @@
-### 안규옥
-
-#### ■ 인적사항
-
-- name : 안규옥
-- github : [kyouohk](https://github.com/kyouohk)
-- dockerhub : [kyouohk]
-- 회사 : 오토에버 
-
-#### ■ 좋아하는 것
-
-- 여행
-- 요리
+##### 안녕하세요.
+###### CI/CD Practice 강의 잘 부탁 드립니다.
 
 ***
+###### 코드연습
 ```code block test
 public class BootSpringBootApplication {
   public static void main(String[] args) {
@@ -20,4 +10,5 @@ public class BootSpringBootApplication {
   }
 }
 ```
+
 ***
