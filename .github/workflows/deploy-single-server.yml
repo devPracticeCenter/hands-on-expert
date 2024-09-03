@@ -11,7 +11,7 @@ env:
   IMAGE_NAME: ${{ secrets.DOCKERHUB_USERNAME }}/cicd-practice
   IMAGE_TAG: latest
   CONTAINER_NAME: ${{ secrets.DOCKERHUB_USERNAME }}-cicd
-  PORT: 40006 # <- 변경 요망
+  PORT: 40006
  
 jobs:
   cicd:
