@@ -10,7 +10,7 @@ env:
   IMAGE_NAME: ${{ secrets.DOCKERHUB_USERNAME }}/cicd-practice
   IMAGE_TAG: latest
   CONTAINER_NAME: ${{ secrets.DOCKERHUB_USERNAME }}-cicd
-  PORT: 포트번호 8080 <- 변경 요망
+  PORT: 포트번호 40005 <- 변경 요망
  
 jobs:
   cicd:
